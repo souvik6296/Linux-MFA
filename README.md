@@ -56,15 +56,17 @@
 6. Now it will ask you some questions answer those question with y -yes or n -no as shon in figures.
    ![unzipping](./Demonstrations/img4.png)
 7. Now it will show you a qr code. Open you google authenticator app and scan this qr. Then enter the otp you seeing on your app for this device. If the QR code is not visible in Google Authenticator APP add the secre code manually and name any to the device.
-   ![unzipping](./Demonstrations/img6.png)
+   
 8. Now follow the same and give it time it will install necessary thing in your laptop.
+   ![unzipping](./Demonstrations/img6.png)
    ![unzipping](./Demonstrations/img7.png)
    ![unzipping](./Demonstrations/img8.png)
-9. Now you will show a sucess message like this
-    ![unzipping](./Demonstrations/img9.png)
+   ![unzipping](./Demonstrations/img9.png)
+10. Now you will show a sucess message like this
+    ![unzipping](./Demonstrations/img10.png)
    and a countdown will start for logging you out autometically.
    If you dont want to be logged out right now then press ^C (ctrl + C) to exit the process.
-10. After this whenever you will login in this user you will be asked for otp.  
+11. After this whenever you will login in this user you will be asked for otp.  
 
 
 
