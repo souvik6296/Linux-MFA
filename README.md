@@ -37,10 +37,12 @@
    ``` bash
    wget git.com
    ```
+
 3. Now run this command on terminal to extract the main folder from zip file:
    ``` bash
    unzip ./Linux-MFA-package.zip
    ```
+      ![unzipping](./Demonstartions/img1.png) 
 4. Go inside the folder:
    ``` bash
    cd ./Linux-MFA-package
