@@ -42,16 +42,17 @@
    ``` bash
    unzip ./Linux-MFA-package.zip
    ```
-      ![unzipping](./Demonstartions/img1.png) 
+      ![unzipping](./Demonstrations/img1.png) 
 4. Go inside the folder:
    ``` bash
    cd ./Linux-MFA-package
    ```
+   ![unzipping](./Demonstrations/img2.png) 
 5. Run this command to run the setup script it will install and set up necessary libraries and enviromnent:
    ``` bash
    bash ./setup.sh
    ```
-   
+   ![unzipping](./Demonstrations/img3.png) 
 
 
 
