@@ -65,7 +65,7 @@
 10. Now you will show a sucess message like this
     ![unzipping](./Demonstrations/img10.png)
    and a countdown will start for logging you out autometically.
-   If you dont want to be logged out right now then press ^C (ctrl + C) to exit the process.
+   If you dont want to be logged out right now then press `^C (ctrl + C)` to exit the process.
 11. After this whenever you will login in this user you will be asked for otp.  
 
 
