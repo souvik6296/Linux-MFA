@@ -35,7 +35,7 @@
 1. At first In your LINUX machine go to Downloads folder and open termian here
 2. Run this command to download the zip package from github:
    ``` bash
-   wget git.com
+   wget https://github.com/souvik6296/Linux-MFA.git/
    ```
 
 3. Now run this command on terminal to extract the main folder from zip file:
@@ -105,13 +105,6 @@ MIT License - Free for personal and commercial use
 
 
 
-
-Key highlights:
-1. **Visual Hierarchy** - Emojis create clear section breaks
-2. **Technical Accuracy** - All your project features are represented
-3. **User-Friendly** - Includes setup and troubleshooting
-4. **Professional Format** - Tables, code blocks, and clean structure
-5. **Security Focused** - Emphasizes the protective nature of the system
 
 
 
