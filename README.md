@@ -35,7 +35,7 @@
 1. At first In your LINUX machine go to Downloads folder and open termian here
 2. Run this command to download the zip package from github:
    ``` bash
-   wget https://github.com/souvik6296/Linux-MFA.git/
+   wget https://github.com/souvik6296/Linux-MFA/blob/main/Linux-MFA-package.zip
    ```
 
 3. Now run this command on terminal to extract the main folder from zip file:
